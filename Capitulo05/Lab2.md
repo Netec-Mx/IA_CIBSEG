@@ -106,8 +106,8 @@ Paso 14. En la parte central hay un botón que dice Save y al costado derecho un
 
 Paso 15. En la ventana emergente configura los siguientes datos:
 - **Provider**: Azure OpenAI
-- **Deployment Name**: GPT-4o
-- **Azure Endpoint**: [Regresa a Foundry, haz clic en la sección **Models + endpoints** y abre el nombre del deployment: gpt-4o]
+- **Deployment Name**: GPT-5-mini
+- **Azure Endpoint**: [Regresa a Foundry, haz clic en la sección **Models + endpoints** y abre el nombre del deployment: gpt-5-mini]
 - **API Version**: 2025-02-01-preview
 - **IMPORTANTE** ➡️ **Provider API**: Chat Completion
 
