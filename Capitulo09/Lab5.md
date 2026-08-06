@@ -13,6 +13,14 @@ Al finalizar la práctica, serás capaz de:
 
 
 ## Instrucciones 
+
+>📌 **Nota**: Por actualizaciones en la plataforma de Microsoft, este ejercicio debe realizarse a través de estos dos links: Link1, link2. Puede que la siguiente guía contenga diferencias.
+
+Link1:[Interactive guide: Investigate sensitive activity in Activity explorer](https://microsoftlearning.github.io/click-throughs/docs/IG/interactive_guide_investigate_sensitive_activity_in_activity_explorer_web/story.html)
+
+Link2:[Interactive guide: Investigate a DLP alert with Security Copilot](https://microsoftlearning.github.io/click-throughs/docs/IG/interactive_guide_investigate_a_dlp_alert_with_security_copilot_web/story.html)
+
+
 Copilot en Microsoft Purview puede apoyar a las áreas de ciberseguridad al facilitar el análisis de grandes volúmenes de datos relacionados con riesgos, cumplimiento y protección de la información. Permite identificar patrones, generar recomendaciones y automatizar tareas como la clasificación de datos, la detección de posibles incidentes y la interpretación de alertas, ayudando a los equipos a tomar decisiones más rápidas y fundamentadas, así como a fortalecer la postura de seguridad de la organización.
 
 En este ejercicio, asumirás el rol de un analista de ciberseguridad que necesita comprender cómo Copilot en Microsoft Purview puede apoyar la identificación y análisis de riesgos de información dentro de una organización. A partir de un conjunto de datos o escenarios propuestos, interactuarás con Copilot para obtener información relevante, interpretar los resultados generados y evaluar cómo estos pueden contribuir a mejorar la toma de decisiones en materia de seguridad y cumplimiento.

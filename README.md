@@ -22,11 +22,14 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1. Agrega seguridad a tu aplicación de IA Gen con Azure Key Vault](Capitulo03/Lab1.md) 
+
+
+
+### [Práctica 1. Agrega seguridad a tu aplicación de IA Gen con Azure Key Vault](Capitulo03/Lab1.md)
 
   - **Descripción**: En esta práctica, los participantes aprenderán a implementar mecanismos de autenticación segura para servicios de Azure AI mediante el uso de claves de acceso, Azure Key Vault e identidades administradas. Además, integrarán una aplicación con Azure AI Services aplicando buenas prácticas de protección de secretos y control de acceso para fortalecer la seguridad de las soluciones basadas en inteligencia artificial.
 
-  - ⏱️ **Duración estimada**: 30 min.
+  - ⏱️**Duración estimada**: 30 min.
 
 
 
@@ -34,13 +37,13 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
   - **Descripción**: En esta práctica, los participantes utilizarán LangChain para procesar y analizar archivos de registros (logs) de manera eficiente. A través de cadenas de procesamiento, identificarán patrones recurrentes, agruparán eventos asociados a direcciones IP frecuentes y generarán reportes automatizados que faciliten la detección de anomalías y comportamientos relevantes dentro de los datos analizados.
 
-  - ⏱️ **Duración estimada**: 20 min.
+  - ⏱️**Duración estimada**: 20 min.
 
 
 
 ### [Práctica 3. Prueba prompts inseguros en un entorno controlado ](Capitulo06/Lab3.md)
 
-  - **Descripción**: En esta práctica, los participantes explorarán cómo los modelos de lenguaje pueden ser vulnerables a intentos de extracción de información sensible mediante técnicas de ingeniería de prompts. A través de diferentes escenarios, analizarán estrategias de evasión de restricciones, evaluarán la efectividad de las defensas implementadas y comprenderán su aplicación en entornos reales de seguridad para sistemas de inteligencia artificial.
+  - **Descripción**: En esta práctica, los participantes explorarán cómo los modelos de lenguaje pueden ser vulnerables a intentos de extracción de información sensible mediante técnicas de ingeniería de prompts. A través de diferentes escenarios, analizarán estrategias de evasión de restricciones, evaluarán la efectividad de las defensas implementadas y comprenderán su aplicación en entornos reales de seguridad para sistemas de inteligencia artificial..
 
   - ⏱️**Duración estimada**: 25 min.
 
@@ -59,7 +62,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
   - **Descripción**: En esta práctica, los participantes explorarán las capacidades de Microsoft Copilot dentro de Microsoft Purview para apoyar actividades de seguridad, gobierno y cumplimiento. Mediante escenarios guiados, interactuarán con Copilot para obtener información relevante, interpretar resultados generados por IA y aprovechar sus capacidades para optimizar la toma de decisiones dentro de la plataforma.
 
   - ⏱️**Duración estimada**: 30 min.
-
 
 
 
